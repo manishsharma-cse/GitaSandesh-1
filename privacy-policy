@@ -1,22 +1,38 @@
 # Privacy Policy
 
-Last updated: June 2026
+**Effective Date:** July 7, 2026
 
-## Information We Collect
-We may collect basic information such as device type, app usage data, and crash logs to improve app performance.
+This application respects your privacy and is committed to protecting your personal data. This privacy policy explains what data we collect, how it is handled, and our strict commitment to data privacy.
 
-## How We Use Information
-We use the collected data to:
-- Improve user experience
-- Fix bugs and improve performance
-- Provide better features
+---
 
-## Data Sharing
-We do not sell or share personal data with third parties.
+## 1. Purely Offline Architecture & On-Device AI
+Our application is designed to be a **purely offline application**. 
 
-## Security
-We take reasonable measures to protect user data.
+* **No Third-Party AI Services:** The application does not use, integrate, or transmit any user data to third-party AI services, networks, or external APIs.
+* **On-Device Processing:** Any advanced automation or intelligent features in this application are powered exclusively by **Apple's native on-device foundation models framework**. All processing happens locally on your device; your data never leaves your device, and we do not have access to it.
 
-## Contact
-If you have any questions, contact us at:
-manish.sharma78@gmail.com
+## 2. Information We Collect
+Because our application operates completely offline, we do not collect any personal data, identifiers, or content generated within the app. 
+
+To help us maintain app stability, we may automatically collect limited, non-identifiable technical data:
+* **Device Information:** Device model, operating system version, and system language.
+* **App Usage Data & Diagnostics:** Aggregated, non-personal statistics regarding feature usage and application stability (e.g., crash logs).
+
+## 3. How We Use Data
+Any limited technical data collected is used strictly to:
+* Monitor and improve application performance.
+* Diagnose and fix technical bugs or crashes.
+* Enhance the overall user experience.
+
+## 4. Data Sharing and Third Parties
+* **No Data Selling or Sharing:** We do not sell, trade, rent, or share any user data with third parties. 
+* **Analytics and Crash Reporting:** We may use standard diagnostic or crash-reporting tools to monitor application stability. These tools do not collect personal data, do not transmit data to external AI providers, and maintain strict data protection standards equivalent to our own.
+
+## 5. Data Security
+We implement strict security measures and leverage Apple's secure iOS/macOS sandbox environment to ensure that your local data remains safe and protected from unauthorized access.
+
+## 6. Contact Us
+If you have any questions or concerns regarding this privacy policy or our privacy practices, please contact us at:
+
+**Email:** manish.sharma78@gmail.com
